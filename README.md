@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Diogo Alves de Andrade
-Software Engineer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Diogo%20Andrade-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogoalvesandrade/)](https://www.linkedin.com/in/diogoalvesandrade/) 
 [![Gmail Badge](https://img.shields.io/badge/-diogoandradealv@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diogoandradealv@gmail.com)](mailto:diogoandradealv@gmail.com)
